@@ -1,2 +1,2 @@
 # Password-Manager
-A personal password manager using Python and SQL
+A personal password manager desktop application using Tauri.
